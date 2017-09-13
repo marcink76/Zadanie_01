@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Programować");
         System.out.println("i");
         System.out.println("commitować");
+        System.out.println("no i się udało");
     }
 }
