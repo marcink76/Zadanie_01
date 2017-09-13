@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Uczę");
         System.out.println("się");
         System.out.println("Programować");
+        System.out.println("i");
+        System.out.println("commitować");
     }
 }
